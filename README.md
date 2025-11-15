@@ -4,7 +4,7 @@ SQL-based analysis evaluating sales performance, product profitability, and inve
 
 ---
 
-## 📌 Highlights
+##  Highlights
 - Monthly revenue trends derived from SQL aggregation  
 - Top products ranked by revenue and units sold  
 - Regional sales performance comparison  
@@ -14,14 +14,14 @@ SQL-based analysis evaluating sales performance, product profitability, and inve
 
 ---
 
-## 🧰 Tools
+##  Tools
 - SQLite / SQL engine  
 - CSV datasets  
 - GitHub for version control  
 
 ---
 
-## 🧠 Skills
+##  Skills
 - SQL querying (joins, grouping, aggregates, window functions)  
 - Sales analytics & product performance evaluation  
 - Inventory monitoring and restock identification  
@@ -29,7 +29,7 @@ SQL-based analysis evaluating sales performance, product profitability, and inve
 
 ---
 
-## 📄 How to View
+##  How to View
 - Open `queries.sql` to see all SQL used for revenue, inventory, and performance analysis  
 - Load `sales.csv` and `inventory.csv` into any SQL engine (SQLiteOnline, DB Browser for SQLite, etc.)  
 - Run queries individually to view insights  
